@@ -77,3 +77,15 @@ h2 {
     width: 40%;
     padding-left: 20px;
 }
+
+#first-box {
+    border-left: 7px solid orangered;
+}
+
+#second-box {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
+}
