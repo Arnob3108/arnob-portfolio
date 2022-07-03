@@ -4,3 +4,12 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+h1{
+    font-size: 60px;
+}
+.arnob-color{
+    color: orange;
+}
+.world-color{
+    color: skyblue;
+}
